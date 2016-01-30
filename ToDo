@@ -1,0 +1,15 @@
+install nodejs API server on raspberry pi
+code to Bitscope API via USB cable
+save collected data to json output file
+load json file into amcharts graphs
+calibrate chart to match data format
+add abilty to collect data on multiple channels and display to chart
+add abilty to save collected data to CSV file
+
+chart should load graph with no data on page load
+
+talk to pi GPIO pins
+switch relays
+change statuses on breaker control PCB's with GPIO pins
+
+add "connect dummy load" buttons to U
